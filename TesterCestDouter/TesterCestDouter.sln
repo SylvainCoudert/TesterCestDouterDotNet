@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterCestDouter", "TesterCestDouter.csproj", "{DEE87586-1631-4C9E-8B02-B4B37EED6AA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterCestDouter.Tests", "..\TesterCestDouter.Tests\TesterCestDouter.Tests.csproj", "{329BD320-E50D-499B-84F5-29F6A50CB432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEE87586-1631-4C9E-8B02-B4B37EED6AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE87586-1631-4C9E-8B02-B4B37EED6AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE87586-1631-4C9E-8B02-B4B37EED6AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE87586-1631-4C9E-8B02-B4B37EED6AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329BD320-E50D-499B-84F5-29F6A50CB432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329BD320-E50D-499B-84F5-29F6A50CB432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329BD320-E50D-499B-84F5-29F6A50CB432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329BD320-E50D-499B-84F5-29F6A50CB432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41653A00-FBD4-4DF2-A17B-D029E40FA5D1}
+	EndGlobalSection
+EndGlobal

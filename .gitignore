@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/TesterCestDouter/.vs/TesterCestDouter/v15
+/TesterCestDouter/obj
+/TesterCestDouter/bin
+/TesterCestDouter.Tests/obj
+/TesterCestDouter.Tests/bin
