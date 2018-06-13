@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterCestDouter", "TesterCestDouter.csproj", "{DEE87586-1631-4C9E-8B02-B4B37EED6AA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterCestDouter", "TesterCestDouter\TesterCestDouter.csproj", "{DEE87586-1631-4C9E-8B02-B4B37EED6AA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterCestDouter.Tests", "..\TesterCestDouter.Tests\TesterCestDouter.Tests.csproj", "{329BD320-E50D-499B-84F5-29F6A50CB432}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterCestDouter.Tests", "TesterCestDouter.Tests\TesterCestDouter.Tests.csproj", "{329BD320-E50D-499B-84F5-29F6A50CB432}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
